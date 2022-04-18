@@ -4,8 +4,8 @@
 </h1>
 
  <h2>📋 Sobre</h2>
- Site de Notícias Cidade fictício para efeito de estudo. O Site foi criado com objetivo de trabalhar com os links e colunas.
-
+ Projeto de um site de Notícias fictício que eu fiz no curso com intuito de trabalhar com links, barra de navegação na horizontal e na vertical e conceito de layout com colunas.
+   
    <h1>
     <img src="https://user-images.githubusercontent.com/93000587/163628088-db5bc114-1612-4b89-8352-c8d6cd4ef01b.gif">
    </h1>
